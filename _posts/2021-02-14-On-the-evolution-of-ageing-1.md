@@ -1,6 +1,6 @@
 ---
 title: "On the evolution of ageing. Part 1."
-tagline: "A historic perspective."
+tagline: "Short historic introduction."
 header: 
   overlay_color: "#333"
 categories:
