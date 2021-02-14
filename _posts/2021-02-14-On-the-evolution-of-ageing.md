@@ -1,5 +1,6 @@
 ---
 title: "On the evolution of ageing"
+tagline: "Some thoughts and history as published on my thesis dissertation."
 header: 
   overlay_color: "#333"
 categories:
@@ -9,8 +10,6 @@ tags:
   - Evolution
   - Writing
 ---
-
-Some thoughts and history as published on my thesis dissertation.
 
 In 1958, Theodosius Dobzhansky published an essay discussing the relation between homoeostasis and senility, and how natural selection aﬀects both [Dobzhansky, 1958]. On it, Dobzhansky reﬂected on the concept of homoeostasis, deﬁned by Walter Cannon some years before as the “wisdom of the body” [Cannon, 1934], or the ability to, through controlled changes in the organism, adapt to changes in the eviroment, provided that they are within the “normal” changes the organism had evolved to withstand. He also linked this concept with ageing, by deﬁning the later as the reduction of this adaptability or plasticity agains “normal” enviromental changes. Speciﬁcally, he proposed that “the homeostatic buﬀering against enviromental shocks is weakened during the postreproductive phase”.
 
