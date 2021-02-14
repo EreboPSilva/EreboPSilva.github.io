@@ -61,6 +61,7 @@ author:
   name   : "José M. G. Pérez-Silva"
   avatar : "/assets/images/profile_pic.jpg"
   bio    : "Bioinformatician in UniOvi, working on comparative genomics and gene annotation. Amateur writer."
+  location: "Oviedo, Spain"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
