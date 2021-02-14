@@ -1,6 +1,6 @@
 ---
-title: "On the evolution of ageing"
-tagline: "Some thoughts and history as published on my thesis dissertation."
+title: "On the evolution of ageing. Part 1."
+tagline: "A historic perspective."
 header: 
   overlay_color: "#333"
 categories:
