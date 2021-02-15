@@ -2,7 +2,7 @@
 title: "On the evolution of ageing: Part 1"
 tagline: "A quick historical introduction"
 header: 
-  overlay_color: "#333"
+  overlay_color: "#919191"
 categories:
   - Blog
 tags:
