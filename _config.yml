@@ -78,6 +78,7 @@ author:
       url: "https://instagram.com/ereboperezsilva"
 
 footer:
+  color: "#333"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
