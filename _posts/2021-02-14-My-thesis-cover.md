@@ -6,4 +6,4 @@ tags:
   - Image
 ---
 
-![My thesis cover](/assets/images/phd_journey.pdf)
+![My thesis cover](/assets/images/phd_journey.png)
