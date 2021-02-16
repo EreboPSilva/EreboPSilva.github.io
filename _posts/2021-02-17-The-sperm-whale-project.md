@@ -38,4 +38,4 @@ Peptidases CPA2, CPA3 and CPO are all truncated (both CPA2 and CPO conservedly a
 
 ---
 
-![Results](assests/figures/sperm_whale_tree_pp_original.pdf)
+![Results](/assests/figures/sperm_whale_tree_pp_original.pdf)
