@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/EreboPSilva"
     - label: "ORCID"
-      icon: "fab fa-fw fa-link"
+      icon: "fab fa-fw fa-graduation-cap"
       url: "https://instagram.com/ereboperezsilva"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
@@ -78,7 +78,7 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jgperezsilva"
     - label: "Medium"
-      icon: "fas fa-fw fa-link"
+      icon: "fas fa-fw fa-medium"
       url: "https://medium.com/@ereboperezsilva"
 
 footer:
