@@ -85,7 +85,7 @@ footer:
   color: "#333"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-fw fa-github-alt"
       url: "https://github.com/EreboPSilva"
     - label: "ORCID"
       icon: "fa fa-fw fa-graduation-cap"
@@ -97,7 +97,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/jgperezsilva"
     - label: "Medium"
-      icon: "fa fa-fw fa-pencil-square"
+      icon: "fab fa-fw fa-medium"
       url: "https://medium.com/@ereboperezsilva"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
