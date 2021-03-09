@@ -72,13 +72,13 @@ author:
       icon: "fa fa-fw fa-graduation-cap"
       url: "https://instagram.com/ereboperezsilva"
     - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://instagram.com/ereboperezsilva"
     - label: "Twitter"
-      icon: "fa fa-fw fa-twitter"
+      icon: "fas fa-fw fa-twitter"
       url: "https://twitter.com/jgperezsilva"
     - label: "Medium"
-      icon: "fa fa-fw fa-pencil-square"
+      icon: "fa fa-fw fa-link"
       url: "https://medium.com/@ereboperezsilva"
 
 footer:
